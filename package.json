@@ -1,0 +1,16 @@
+{
+  "name": "Conway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Conway.js",
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
